@@ -1,2 +1,2 @@
 # MATIC blockchain wallet
-Matic blockchain Wallet linked with FLO address
+Matic blockchain wallet linked with FLO address
