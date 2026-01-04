@@ -1,2 +1,2 @@
-# bscwallet
-Binance Chain Wallet linked with FLO Wallet
+# MATIC blockchain wallet
+Matic blockchain wallet linked with FLO address
